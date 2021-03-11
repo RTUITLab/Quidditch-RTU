@@ -38,5 +38,5 @@
 # SourceCode
 | name                         | link                                      |
 | ---------------------------- | ----------------------------------------- |
-| Исходный код                 | https://github.com/RTUITLab/WebVRShoot    |
+| Исходный код                 | https://github.com/RTUITLab/Quidditch-RTU    |
 ---
