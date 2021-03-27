@@ -10,10 +10,10 @@
         Для написания игры использовался игровой движок Unreal Engine 4 и плагин для управления креслом Futurift (данный плагин написан сотрудниками лаборатории).
 
 # Images
-* ![](https://files.rtuitlab.ru/landing_src/kvidich/1.png)
-* ![](https://files.rtuitlab.ru/landing_src/kvidich/2.png)
-* ![](https://files.rtuitlab.ru/landing_src/kvidich/3.png)
-* ![](https://files.rtuitlab.ru/landing_src/kvidich/4.png)
+* ![](LANDING/1.png)
+* ![](LANDING/2.png)
+* ![](LANDING/3.png)
+* ![](LANDING/4.png)
 ---
 
 # Videos
